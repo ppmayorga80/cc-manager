@@ -1,0 +1,9 @@
+boto3==1.28.4
+bump2version==1.0.1
+fastapi==0.100.0
+jsons==1.6.3
+pandas==2.0.3
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+smart-open==6.3.0
+uvicorn==0.23.0

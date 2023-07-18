@@ -1,0 +1,12 @@
+[[source]]
+
+[packages]
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+
+[scripts]
+install = "bash install.sh"
+version = "bash scripts/version.sh"
